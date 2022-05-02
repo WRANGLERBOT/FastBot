@@ -43,7 +43,7 @@
     "MONGO_DB_URI": {
       "description": "Mongo DB URL",
       "value": "",
-      "required": false
+      "required": true
     },
     "MUSIC_BOT_NAME": {
       "description": "A name for your Music Bot.",
